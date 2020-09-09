@@ -1,4 +1,4 @@
-if TARGET_S5P_GONI
+if TARGET_SMDKV210
 
 config SYS_BOARD
 	default "smdkv210"
